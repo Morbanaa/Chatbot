@@ -1,5 +1,5 @@
 # Chatbot
-Created Chatbot Using Python &amp;
+Created Chatbot Using Python
 
 ============================================================
 
